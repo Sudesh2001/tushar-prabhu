@@ -6,8 +6,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tushar-prabhu-4a70411b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="tushar-prabhu-4a70411b2" height="30" width="40" /></a>
+  <br>
 <a href="https://instagram.com/tusharprabhu2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="tusharprabhu2001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tusharprabhu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="tusharprabhu84" height="30" width="40" /></a>
+<br>
+  <a href="https://www.hackerrank.com/tusharprabhu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="tusharprabhu84" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
