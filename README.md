@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="./icons/endless-constellation.svg" alt="cover" />
-</div>
-
 <h1> Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Tushar</h1>
 <p align='center'>
 
