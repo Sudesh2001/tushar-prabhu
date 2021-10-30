@@ -16,6 +16,7 @@
 
 - 🌱 I’m currently learning Node js.
 
+<br><br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/tushar-prabhu?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp
 <a href= https://github.com/tushar-prabhu?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>&nbsp
@@ -39,7 +40,7 @@
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@tushar_prabhu&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?shareid=@tushar_prabhu/47afd315-3ff4-49f0-9111-2611ab6a2702" />
 
 <br>
 
